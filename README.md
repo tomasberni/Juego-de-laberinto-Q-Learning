@@ -1,4 +1,4 @@
-##Juego de Navegación en un Laberinto
+## Juego de Navegación en un Laberinto
 
 Este proyecto tiene como objetivo desarrollar un entorno de laberinto simple y aplicar un algoritmo de **Aprendizaje por Refuerzo** para enseñar a una IA a navegar desde un punto inicial hasta un objetivo.
 
